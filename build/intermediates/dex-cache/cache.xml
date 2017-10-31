@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiaojingzhang/AndroidStudioProjects/SimpleCalculatorAndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba22cd5054a96f4b821560586df49faa949c4098">
+        <dex dex="/Users/xiaojingzhang/AndroidStudioProjects/SimpleCalculatorAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fdc7f97f9ea7c5332300d5881d40018e794b74e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaojingzhang/AndroidStudioProjects/SimpleCalculatorAndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/xiaojingzhang/AndroidStudioProjects/SimpleCalculatorAndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ea3773d26ddb182b2a9020c20f86e4689a2d2115/classes.dex" />
+    </item>
+
+</items>
